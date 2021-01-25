@@ -56,7 +56,10 @@ Lot 3 has a different scenario. Sample mean is 1496.14 and p-Value is 0.04. P va
 
 ![Lot3](https://github.com/pimchanyachitsanga/MechaCar_Statistical_Analysis/blob/main/Images/Lot3.png)
 
+## Study Design: MechaCar vs Competition
 
-
-
-
+* Look into fuel effiency and compare to their competitors. This could help the consumers decide when looking at all of the charecteristics of the different models. 
+* The Null hypothesis would be that MechaCar would have a higher MPG than other manufactuers. 
+* The alternative would be that MechaCar would not have higher MPG than other manufactuers. 
+* We should use ANOVA test to run this analysis as it is a simple way to test different groups help us determine which is statistically significant.
+* We would need to gather data from the competitors and conduct aiitional tests on the MPG of all manufactuers.
