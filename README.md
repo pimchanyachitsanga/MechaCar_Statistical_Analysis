@@ -30,8 +30,22 @@ Lot 1 and Lot 2 are within the 100 PSI variance requirement with variances of 0.
 
 ## T-Tests on Suspension Coils
 
-![Lot1](https://github.com/pimchanyachitsanga/MechaCar_Statistical_Analysis/blob/main/Images/Lot1.png)
+Wer conducted a t-test on the suspension coil data to determine whether there is a statistical difference using the presumed population mean of 1500, we find the following:
 
+### Lot1: 
+
+For Lot 1, the sample has the true sample mean of 1500. With a p-Value of 1, we cannot reject the null hypothesis as such there is no statistical difference between the observed sample mean and the presumed population mean (1500).
+
+
+### Lot2: 
+
+Lot 2 has similar outcome with a sample mean of 1500.02 and a p-Value of 0.61. The null hypothesis cannot be rejected as such there is no statistical difference between the observed sample mean and the presumed population mean (1500).
+
+### Lot3: 
+
+Lot 3 has a different scenario. Sample mean is 1496.14 and p-Value is 0.04. P value is lower than the common significance level of 0.05 so it rejects the null hypothesis.
+
+![Lot1](https://github.com/pimchanyachitsanga/MechaCar_Statistical_Analysis/blob/main/Images/Lot1.png)
 
 ![Lot2](https://github.com/pimchanyachitsanga/MechaCar_Statistical_Analysis/blob/main/Images/Lot2.png)
 
