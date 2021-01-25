@@ -2,10 +2,9 @@
 
 ## Linear Regression to Predict MPG
 
-* The vehicle lengt and vehicle ground clearance are statistically significant whichh means that vehicle length and vehicle ground clearance have a significant impact on miles per gallon on the MechaCar prototype.
+* The vehicle length and vehicle ground clearance are statistically significant which means that vehicle length and vehicle ground clearance have a significant impact on miles per gallon on the MechaCar prototype.
 
-* Is the slope of the linear model considered to be zero? Why or why not?
-p-Value: 5.35e-11, is smaller than significance level of 0.05%. This indicates that there is a sufficient evidence to reject the null hypothesis. This indincates that the slope of this linear model is not zero.
+* p-Value: 5.35e-11, is smaller than significance level of 0.05%. This indicates that there is a sufficient evidence to reject the null hypothesis. This indincates that the slope of this linear model is not zero.
 
 * This linear model has an r-squared value of 0.7149, which means that approximately 71.5% of all mpg predictions will be determined by this model. The regression model does predict mpg of MechaCar prototypes effectively.
 
@@ -35,7 +34,7 @@ Lot 1 and Lot 2 are within the 100 PSI variance requirement with variances of 0.
 
 ## T-Tests on Suspension Coils
 
-Wer conducted a t-test on the suspension coil data to determine whether there is a statistical difference using the presumed population mean of 1500, we find the following:
+We conducted a t-test on the suspension coil data to determine whether there is a statistical difference using the presumed population mean of 1500, we find the following:
 
 ### Lot1: 
 
