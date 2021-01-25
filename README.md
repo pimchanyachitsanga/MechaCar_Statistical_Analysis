@@ -14,7 +14,30 @@ This linear model has an r-squared value of 0.7149, which means that approximate
 
 ## Summary Statistics on Suspension Coils
 
+The Suspension Coil dataset provided for the MechaCar contains the results of testing the weight capacities of multiple suspension coils from multiple production lots to determine consistency.
+
+For all manufacturing lots:
+
 ![total_summary](https://github.com/pimchanyachitsanga/MechaCar_Statistical_Analysis/blob/main/Images/total_summary.png)
+
+For each three lot:
+
 ![lot_summary](https://github.com/pimchanyachitsanga/MechaCar_Statistical_Analysis/blob/main/Images/lot_summary.png)
+
+The variance of the suspension coils cannot exceed 100 pounds per square inch (PSI) . When looking at all production lot, the variance of the coils is 62.29 PSI, which is within the 100 PSI variance requirement.
+
+Lot 1 and Lot 2 are within the 100 PSI variance requirement with variances of 0.98 and 7.47. However, Lot 3 that is showing much larger variance in performance with a variance of 170.29.
+
+## T-Tests on Suspension Coils
+
+![Lot1](https://github.com/pimchanyachitsanga/MechaCar_Statistical_Analysis/blob/main/Images/Lot1.png)
+
+
+![Lot2](https://github.com/pimchanyachitsanga/MechaCar_Statistical_Analysis/blob/main/Images/Lot2.png)
+
+![Lot3](https://github.com/pimchanyachitsanga/MechaCar_Statistical_Analysis/blob/main/Images/Lot3.png)
+
+
+
 
 
