@@ -10,6 +10,4 @@ p-Value: 5.35e-11, is smaller than significance level of 0.05%. This indicates t
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 This linear model has an r-squared value of 0.7149, which means that approximately 71.5% of all mpg predictions will be determined by this model. The regression model does predict mpg of MechaCar prototypes effectively.
 
-![Deliverable1](https://github.com/pimchanyachitsanga/MechaCar_Statistical_Analysis/Images/Deliverable1.png
-
-MechaCar_Statistical_Analysis/Images/Deliverable1.png
+![Deliverable1](https://github.com/pimchanyachitsanga/MechaCar_Statistical_Analysis/Images/Deliverable1.png)
